@@ -1,0 +1,9 @@
+.idea
+.vscode
+*.pkl
+*.DS_Store
+*.pyc
+*.tar.gz
+*/__init__.py
+*/*/__init__.py
+*/*/__pycache__/
